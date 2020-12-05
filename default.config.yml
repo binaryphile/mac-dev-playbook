@@ -2,10 +2,11 @@
 downloads: ~/.ansible-downloads
 
 homebrew_installed_packages:
-  - please
+  - pulumi
 
 homebrew_taps:
-  - thought-machine/please
+  - homebrew/core
+  - homebrew/cask
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
